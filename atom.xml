@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>年少不知愁滋味</title>
+  
+  
+  <link href="http://8883866636.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://8883866636.github.io/"/>
+  <updated>2021-06-01T07:32:59.857Z</updated>
+  <id>http://8883866636.github.io/</id>
+  
+  <author>
+    <name>困守一念</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随笔一</title>
+    <link href="http://8883866636.github.io/2021/05/31/yi/"/>
+    <id>http://8883866636.github.io/2021/05/31/yi/</id>
+    <published>2021-05-31T09:03:09.187Z</published>
+    <updated>2021-06-01T07:32:59.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;《丑奴儿·书博山道中壁》&lt;/p&gt;
+&lt;p&gt;辛弃疾&lt;/p&gt;
+&lt;p&gt;年少不知愁滋味，欲上重楼。欲上重楼，为赋新词强说愁。&lt;br&gt;而今识尽愁滋味，欲语还休。欲语还休，却道天凉好个秋。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="诗词" scheme="http://8883866636.github.io/categories/%E8%AF%97%E8%AF%8D/"/>
+    
+    
+    <category term="生活记录" scheme="http://8883866636.github.io/tags/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+  </entry>
+  
+</feed>
