@@ -2,6 +2,31 @@
 <search> 
   
   
+    
+    <entry>
+      <title>二进制基础</title>
+      <link href="/2021/05/31/er-jin-zhi-ji-chu/"/>
+      <url>/2021/05/31/er-jin-zhi-ji-chu/</url>
+      
+        <content type="html"><![CDATA[<p>二进制的基础就是汇编语言的学习，对于pe结构的学习，然后是脱壳和加壳的原理及方法。<br>对程序运行的节点的把握，并且能对在整个程序进行逆向，不止是找出最终结果，还要能通过改动节点得到自己想要的结果。<br>这也是ctf中逆向及pwn的基础及重点。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ctf学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
